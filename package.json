@@ -1,0 +1,25 @@
+{
+  "name": "cafes",
+  "version": "0.0",
+  "description": "Cafes For NodeJS",
+  "keywords": [
+    "cafres",
+  ],
+  "homepage": "http://github.com/caferich/cafes",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/caferich/cafes.git"
+  },
+  "author": {
+    "name": "Rich Kenny",
+    "email": "cafeprojections@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "caferich",
+      "email": "cafeprojections@gmail.com"
+    }
+  ],
+  "dist": {},
+  "directories": {}
+}
